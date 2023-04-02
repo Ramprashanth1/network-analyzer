@@ -1,2 +1,2 @@
-# netlyzer
+# network analyzer
 
